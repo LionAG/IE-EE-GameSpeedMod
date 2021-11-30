@@ -4,17 +4,21 @@ In Infinity Engine game speed is directly tied to how fast the engine is renderi
 
 Since combat may feel overly fast when playing at 60 FPS this mod introduces a "Slack Combat" feature - anytime hostile creatures are encountered game speed is reverted to default (slower) until all monsters are dealt with.
 
-Currently supported game list:
+Currently supported games:
 
 * Baldur's Gate I Enhanced Edition
 * Baldur's Gate II Enhanced Edition
+
+Currently supported platforms:
+
+* Windows
 
 # How to use
 
 1. Download the latest release.
 2. Unpack the archive.
 3. Run the game.
-4. Run GameSelector.exe and wait until loading is finished.
+4. Run GameSelector.exe, choose the game and wait until loading is finished.
 
 ## Hotkey
 
