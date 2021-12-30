@@ -1,6 +1,6 @@
-# Infinity Timer Mod
+# Infinity Engine - Enhanced Edition Timer Mod
 
-In Infinity Engine game speed is directly tied to how fast the engine is rendering - therefore attempting to double the default speed to 60 frames per second consequently speeds up the in-game timer as well. That affects how much time the player has to complete any timed objectives/quests. This project is a timer mod attempting to fix that problem. Once loaded game runs at 60 FPS but the timer is left untouched!
+The way Infinity Engine operates is that game speed is directly tied to how fast the engine is rendering - therefore attempting to double the default speed to 60 frames per second consequently speeds up the in-game timer as well. That affects how much time the player has to complete any timed objectives/quests as well as how long spells, potions etc. last. This project is a timer mod attempting to fix that problem. Once loaded game runs at 60 FPS but the timer is left untouched!
 
 Since combat may feel overly fast when playing at 60 FPS this mod introduces a "Slack Combat" feature - anytime hostile creatures are encountered game speed is reverted to default (slower) until all monsters are dealt with.
 
