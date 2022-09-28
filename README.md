@@ -15,7 +15,7 @@ Currently supported games:
 1. Download the latest release.
 2. Unpack the archive.
 3. Run the game.
-4. Run GameSelector.exe, choose the game and wait until loading is finished.
+4. Run LoadMod.exe, choose the game and wait until loading is finished.
 
 ## Hotkey
 
