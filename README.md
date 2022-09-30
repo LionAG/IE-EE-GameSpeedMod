@@ -17,7 +17,7 @@ Currently supported games:
 1. [Download](https://github.com/Nesae-avi/IE-EE-GameSpeedMod/releases/latest) and unpack the release.
 2. Copy the `SpeedMod_Launcher.exe` and the appropriate dll to the game root directory.
 3. Launch the game by double clicking on `SpeedMod_Launcher.exe`.
-4. optionally create a desktop shortcut to the loader's executable.
+4. Optionally create a desktop shortcut to the loader's executable.
 
 ## Hotkey
 
